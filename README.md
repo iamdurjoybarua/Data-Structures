@@ -2,11 +2,14 @@
 
 This repository is a collection of fundamental data structures implemented in C++. It serves as a learning resource for beginners to understand core concepts through simple, commented code examples.****
 
+
+
 ## Table of Contents
 - [Project Description](#project-description)
 - [Data Structures Covered](#data-structures-covered)
 - [How to Compile and Run](#how-to-compile-and-run)
 - [License](#license)
+
 
 
 ## Data Structures Covered
@@ -15,6 +18,7 @@ This repository is a collection of fundamental data structures implemented in C+
 - **Stacks & Queues**: LIFO and FIFO implementations.
 - **Trees**: Binary Trees and Binary Search Trees.
 - **Maps**: `std::map` and `std::unordered_map`.
+
 
 
 ## How to Compile and Run
@@ -31,6 +35,7 @@ To compile and run the programs, you'll need a C++ compiler like `g++`.
 
 4.  Run the executable:
     `./linked_list`
+
 
 
 ## Author
