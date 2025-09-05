@@ -1,4 +1,4 @@
-# My C++ Data Structures Project
+# C++ Data Structures
 
 This repository is a collection of fundamental data structures implemented in C++. It serves as a learning resource for beginners to understand core concepts through simple, commented code examples.****
 
