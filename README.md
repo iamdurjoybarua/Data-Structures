@@ -5,10 +5,8 @@ This repository is a collection of fundamental data structures implemented in C+
 
 
 ## Table of Contents
-- [Project Description](#project-description)
 - [Data Structures Covered](#data-structures-covered)
 - [How to Compile and Run](#how-to-compile-and-run)
-- [License](#license)
 
 
 
