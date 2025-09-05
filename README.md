@@ -33,10 +33,6 @@ To compile and run the programs, you'll need a C++ compiler like `g++`.
     `./linked_list`
 
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-
 ## Author
 
 Durjoy Barua / https://github.com/iamdurjoybarua
