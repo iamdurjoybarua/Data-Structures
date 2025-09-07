@@ -11,7 +11,7 @@ This repository is a collection of fundamental data structures implemented in C+
 
 
 ## Data Structures Covered
-- **Arrays**: Basic operations (traversal, insertion, deletion).
+- **Arrays**: Basic operations (traversal, insertion, deletion, reverse, string).
 - **Linked Lists**: Singly, Doubly, and Circular.
 - **Stacks & Queues**: LIFO and FIFO implementations.
 - **Trees**: Binary Trees and Binary Search Trees.
